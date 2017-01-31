@@ -1,0 +1,38 @@
+== 1.0.0 ==
+* Initial release for janolaw module.
+
+== 1.0.1 ==
+* changed "Janolaw" to "janolaw"
+* fixed encoding bug in content retrieval
+
+== 1.0.2 ==
+* added new information from provider to backend configuration page
+* fixed bug in english language file
+
+== 1.0.3 ==
+* code refactoring for module certification
+
+== 1.0.4 ==
+* code refactoring for module certification
+
+== 1.0.5 ==
+* code refactoring for module certification
+
+== 1.1.0 ==
+* changes on installationpackage for OXID 4.7/5.0
+
+== 1.1.1 ==
+* changes on installationpackage for OXID 4.9.1/5.2.1
+
+== 1.1.2 ==
+* fixed strict warnings on configuration save
+
+== 2.0.0 ==
+* refactoring of backend configuration
+* implementation v3
+* implementation email attachments
+* general improvements on module
+
+== 2.1.0 ==
+* improved translations
+* integrated blocks for janolaw text in emails

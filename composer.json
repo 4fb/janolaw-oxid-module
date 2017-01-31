@@ -1,0 +1,15 @@
+{
+   "name": "ffb/janolaw-oxid-module",
+   "description": "Janolaw OXID eShop Module",
+   "type": "oxideshop-module",
+   "keywords": ["oxid", "modules", "eShop"],
+   "homepage": "https://www.4fb.de",
+   "license": [
+       "proprietary"
+   ],
+   "extra": {
+     "oxideshop": {
+       "target-directory": "ffb/janolaw"
+     }
+   }
+}
